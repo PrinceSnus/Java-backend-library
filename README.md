@@ -4,4 +4,4 @@ Ein Java Spring Projekt welches mit einer Datenbank kommuniziert.
 
 Man kann neue Bücher hinzufügen, Bücher und deren Autoren editieren.
 
-Dieses Projekt wurde mit einem anderen Entwickler zusammen entwickelt.
+Bis jetzt ist dies das komplizierteste Projekt an das ich gearbeitet habe.
